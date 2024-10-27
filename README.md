@@ -1,0 +1,1 @@
+### Improving the prior authorization system for certain drugs/test using GenAI for summarizing patient medical history and using this medical history to estimate potential tests that may be asked by insurance company - making the process tedious and longer.
